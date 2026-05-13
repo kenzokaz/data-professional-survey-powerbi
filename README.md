@@ -3,7 +3,7 @@
 An interactive Power BI dashboard built from a real-world survey of data professionals worldwide, exploring salary trends, programming preferences, and job satisfaction.
 
 ## Dashboard Preview
-![Data Professional Survey Dashboard]()
+![Data Professional Survey Dashboard](dashboard_screenshot.png)
 
 ## Overview
 This project analyzes survey responses from **630 data professionals** across multiple countries and job titles uncovering patterns in compensation, tooling preferences, and workplace satisfaction.
