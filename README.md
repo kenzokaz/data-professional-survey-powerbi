@@ -6,7 +6,7 @@ An interactive Power BI dashboard built from a real-world survey of data profess
 ![Data Professional Survey Dashboard](dashboard_screenshot.png)
 
 ## Overview
-This project analyzes survey responses from **630 data professionals** across multiple countries and job titles, uncovering patterns in compensation, tooling preferences, and workplace satisfaction.
+This project analyzes survey responses from **630 data professionals** across multiple countries and job titles uncovering patterns in compensation, tooling preferences, and workplace satisfaction.
 
 ## Key Findings
 - **Data Scientists** earn the highest average salaries, followed by Data Engineers and Data Architects
